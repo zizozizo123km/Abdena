@@ -1,0 +1,8 @@
+{
+  "name": "FootBen Pro AI",
+  "description": "An advanced AI-powered football comparison engine that generates cinematic shorts with realistic images and high-impact sports commentary.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
